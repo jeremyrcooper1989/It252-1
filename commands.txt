@@ -1,0 +1,5 @@
+1) first i used git pull to make sure that i had the most up to date master.
+2) then i used nano nameoffile.txt to write the text and create the file.
+3) then i used git add --all to stage all of the files.
+4) The next part im not sure if i did correctly but i did git commit -m and it opened a nano then you just remove the # signs for the files that you want to add.
+5)The final stage is to use the git push command to re upload the files to the github website.
